@@ -1,0 +1,40 @@
+.img{
+    position:absolute;
+    text-align: center;
+    bottom: 300px;
+    left: 450px;
+    
+    
+
+}
+.temp{
+    position: relative;
+    bottom: 250px;
+    text-align: center;
+    right: 400px;
+} 
+.temp1{
+    position:relative;
+    left: 80px;
+    bottom: 100px;
+
+}
+
+
+.wind{
+    position: relative;
+    bottom: 500px;
+    text-align: center;
+    left: 10px;
+} 
+.wind1{
+    position:relative;
+    left: 100px;
+    bottom: 150px;
+}
+.deg{
+    position: relative;
+    text-align: center;
+    bottom: 400px;
+right: 150px;
+}
